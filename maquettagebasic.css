@@ -1,0 +1,24 @@
+.introduction{
+    background: url(./images/header.jpg) no-repeat;
+    background-size: cover;
+    /* height:100vh;如果保留这个数字，那么图片在换版本之后只会显示一半 */
+    /* background-image: url();
+    min-height:80vh;
+    background-position: center;
+    background-size:cover; */
+}
+
+
+
+.items{
+    width:100px;
+    height:100px;
+    
+}
+
+.bg-sanfrancisco{
+    background:url(./images/sep.jpg) no-repeat center;
+    /* center 将会截取图片的中间 */
+    background-size:cover;
+   
+}
